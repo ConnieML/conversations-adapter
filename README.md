@@ -1,3 +1,7 @@
+# Current Status
+
+This repository has been archived due to no longer having relevant use in the current state of Connie.
+
 # Twilio Flex - Conversations Adapters
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
